@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<FrameLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    tools:context=".ui.gallery.GalleryFragment">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="65dp"
+        android:text="@string/name_car"
+        android:paddingTop="20dp"
+        android:textSize="25dp"
+        android:textAlignment="center"/>
+
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/galleryeRecyclerView"
+        android:layout_width="match_parent"
+        android:layout_height="753dp"
+        android:layout_marginTop="50dp"
+        android:clipToPadding="false"
+        android:padding="16dp"
+        app:layoutManager="androidx.recyclerview.widget.LinearLayoutManager"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintHorizontal_bias="0.0"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent" />
+
+
+</FrameLayout>

@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Automotive List</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Automotive List</string>
+    <string name="nav_header_subtitle">auliaakbar.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Languages Change</string>
+    <string name="action_switch_layout">Switch Layout</string>
+    <string name="welcome">Selamat datang di List Otomotif</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_oli">Oil</string>
+    <string name="menu_merek">Merek</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_car">Car Name List</string>
+
+    <string name="logo1">Honda</string>
+    <string name="logo2">Toyota</string>
+    <string name="logo3">Ferari</string>
+    <string name="logo4">Jeep</string>
+    <string name="logo5">Lamborghini</string>
+
+    <string name="dlogo1">Honda Motor Company, Ltd. is a Japanese manufacturer of cars, trucks, motorcycles and scooters. They also make all-terrain vehicles, electric generators, marine engines, and garden equipment. Honda was founded on September 30, 1948 by Soichiro</string>
+    <string name="dlogo2">Toyota Motor Corporation is a Japanese multinational automotive manufacturer headquartered in Toyota City, Aichi, Japan. It was founded by Kiichiro Toyoda and incorporated on August 28, 1937. Toyota is one of the largest automobile manufacturers in the world, producing about 10 million vehicles per year.</string>
+    <string name="dlogo3">Ferrari is an Italian high-performance supercar and race car manufacturer based in Maranello, Italy. Ferrari was founded by Enzo Ferrari in 1929, as "Scuderia Ferrari", the company that sponsored drivers and made race cars before moving into the production of commercial vehicles known as Ferrari in 1947. Throughout its history, the company has participated in the world of racing the longest. , especially in Formula One, where it has been a huge success.</string>
+    <string name="dlogo4">Jeep is a multinational company that produces various kinds of SUV products. The company was founded in 1941. Jeep has been part of Chrysler since 1987 and by 2021 Jeep has become part of Stellantis. Jeep is headquartered in Toledo, Ohio.</string>
+    <string name="dlogo5">Automobili-Lamborghini S.p.A., often referred to as Lamborghini, is an Italian automaker. The company was founded by Ferruccio Lamborghini in 1963, with the aim of producing a grand touring car that could compete with existing cars on the market such as Ferrari.</string>
+
+
+    <string name="merek1">Nissan Silvia</string>
+    <string name="merek2">Ford Mustang</string>
+    <string name="merek3">Toyota Hilux 2.5 Extra Cabin</string>
+    <string name="merek4">Mini Countryman</string>
+    <string name="merek5">Toyota Sienta</string>
+    <string name="merek6">Jeep Grand Cherokee</string>
+    <string name="merek7">Land Rover Defender</string>
+    <string name="merek8">BMW M3</string>
+    <string name="merek9">Buggati Chiron</string>
+    <string name="merek10">Nissan Avenir</string>
+    <string name="merek11">Nissan X-Trail</string>
+
+    <string name="type1">Type: Coupe</string>
+    <string name="type2">Type: Convertible</string>
+    <string name="type3">Type: Double</string>
+    <string name="type4">Type: Hatcback</string>
+    <string name="type5">Type: MPV</string>
+    <string name="type6">Type: Offroad</string>
+    <string name="type7">Type: Offroad</string>
+    <string name="type8">Type: Sedan</string>
+    <string name="type9">Type: Sport</string>
+    <string name="type10">Type: Station Wagon</string>
+    <string name="type11">Type: SUV</string>
+
+    <string name="judulN1">Machine Oil</string>
+    <string name="judulN2">Transmission Oil</string>
+    <string name="judulN3">Break Oil</string>
+    <string name="judulN4">Axle Oil</string>
+    <string name="judulN5">Power Steering Oil</string>
+    <string name="judulN6">Transfer Oil</string>
+
+    <string name="isiN1">The first type of car oil is engine oil. If AutoFamily gets a reminder to change the oil, then this is the engine oil. Its function is very important for the car. When the engine is started, engine oil will enter between the engine parts (piston, cylinder, and crankshaft) and act as a lubricant. The oil indicator light on the speedometer is an indicator of engine oil only, so its not any other oil. In order to work optimally, engine oil must be changed every time the car has passed 5,000-10,000 km. AutoFamily can also use a benchmark for changing engine oil, which is every six months.</string>
+    <string name="isiN2">As the name implies, transmission oil acts as a lubricant in the cars transmission system. By using this oil, the transmission process (gear change) can be done easily and smoothly. Oil works as a lubricant for gears and bearings in manual transmission systems. In the automatic transmission system, transmission oil works in the clutch and torque.Transmission oil used in manual transmission cars usually has a thicker consistency (above SAE 40). Preferably, replacement is done periodically every car has covered a distance of 10,000 km. Meanwhile, changing automatic car oil with ATF (Automatic Transmission Fluid) should be replaced every 20,000 km.</string>
+    <string name="isiN3">Brake oil or often called brake fluid, serves to help smooth the braking system. Brake oil acts as a distributor in the hydraulic system. Brake oil changes should be done every time the car has covered a distance of about 30,000 km. AutoFamily should also change the brake fluid if the fluid has changed color or changed in consistency. Also avoid opening and closing the oil tank too often because it can make dirt enter.</string>
+    <string name="isiN4">The next type of car oil is axle oil. The main function of this fluid is to lubricate the axle gear contacts. In addition, the axle oil also protects the pinion gear from making direct contact with the bearing. Axle oil changes should be done every time the car has reached a distance of 10,000 km (or a maximum of 20,000 km). Usually the characteristics of the car axle oil must be replaced with the cars transmission oil.</string>
+    <string name="isiN5">The cars circulating today generally have a light steering wheel when rotated. This is different from the old output cars whose steering feels heavier when turned. All thanks to the power steering system. Well, the power steering system can work in the presence of power steering oil. Power steering oil acts as a pump lubricant while reducing steering rotation. This fluid should be changed every 40,000 km.</string>
+    <string name="isiN6">The last type of car oil is transfer oil. Transfer oil is generally only used in cars with an all-wheel drive (AWD) or four-wheel drive (4WD or 4x4) drive system. The job of car oil is to protect the chain and bearings.</string>
+</resources>

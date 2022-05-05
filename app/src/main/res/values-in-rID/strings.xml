@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Daftar Otomotif</string>
+    <string name="navigation_drawer_open">Buka Gambar Navigasi</string>
+    <string name="navigation_drawer_close">Tutup Gambar Navigasi</string>
+    <string name="nav_header_title">Daftar Otomotif</string>
+    <string name="nav_header_subtitle">auliaakbar.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Ganti Bahasa</string>
+    <string name="action_switch_layout">Ganti Layout</string>
+    <string name="welcome">Selamat datang di List Otomotif</string>
+
+    <string name="menu_home">Beranda</string>
+    <string name="menu_gallery">Galeri</string>
+    <string name="menu_oli">Oli</string>
+    <string name="menu_merek">Merek</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="name_car">Daftar Nama-Nama Mobil</string>
+
+    <string name="logo1">Honda</string>
+    <string name="logo2">Toyota</string>
+    <string name="logo3">Ferari</string>
+    <string name="logo4">Jeep</string>
+    <string name="logo5">Lamborghini</string>
+
+
+    <string name="dlogo1">HHonda Motor Company, Ltd. adalah produsen mobil, truk, sepeda motor dan skuter asal Jepang. Mereka juga membuat kendaraan segala medan, generator listrik, mesin kelautan, dan peralatan taman. Honda didirikan pada 30 September 1948 oleh Soichiro</string>
+    <string name="dlogo2">Toyota Motor Corporation adalah produsen otomotif multinasional Jepang yang berkantor pusat di Toyota City, Aichi, Jepang. Didirikan oleh Kiichiro Toyoda dan didirikan pada 28 Agustus 1937. Toyota adalah salah satu produsen mobil terbesar di dunia, memproduksi sekitar 10 juta kendaraan per tahun.</string>
+    <string name="dlogo3">Ferrari adalah sebuah produsen mobil super dan mobil balap asal Italia berperforma tinggi yang berbasis di Maranello, Italia. Ferrari didirikan oleh Enzo Ferrari pada tahun 1929, sebagai "Scuderia Ferrari", perusahaan yang mensponsori para pembalap dan membuat mobil balap sebelum pindah ke produksi kendaraan komersial yang dikenali sebagai Ferrari pada tahun 1947. Sepanjang sejarahnya, perusahaan ini telah berpartisipasi paling lama dalam dunia balap, terutama di Formula Satu, di mana telah sukses besar.</string>
+    <string name="dlogo4">Jeep merupakan sebuah perusahaan multinasional yang menghasilkan berbagai macam produk mobil SUV. Perusahaan ini didirikan pada tahun 1941 Jeep menjadi bagian dari Chrysler sejak tahun 1987 dan pada tahun 2021 Jeep sudah menjadi bagian dari Stellantis. Jeep bermarkas di Toledo, Ohio.</string>
+    <string name="dlogo5">Automobili-Lamborghini S.p.A., sering disebut Lamborghini adalah sebuah pembuat mobil di Italia. Perusahaan ini didirikan oleh Ferruccio Lamborghini pada tahun 1963, dengan tujuan untuk menghasilkan mobil grand wisata yang dapat bersaing dengan mobil yang telah ada dipasaran terlebih dahulu seperti Ferrari.</string>
+
+    <string name="merek1">Nissan Silvia</string>
+    <string name="merek2">Ford Mustang</string>
+    <string name="merek3">Toyota Hilux 2.5 Extra Cabin</string>
+    <string name="merek4">Mini Countryman</string>
+    <string name="merek5">Toyota Sienta</string>
+    <string name="merek6">Jeep Grand Cherokee</string>
+    <string name="merek7">Land Rover Defender</string>
+    <string name="merek8">BMW M3</string>
+    <string name="merek9">Buggati Chiron</string>
+    <string name="merek10">Nissan Avenir</string>
+    <string name="merek11">Nissan X-Trail</string>
+
+    <string name="type1">Tipe: Coupe</string>
+    <string name="type2">Tipe: Convertible</string>
+    <string name="type3">Tipe: Double</string>
+    <string name="type4">Tipe: Hatcback</string>
+    <string name="type5">Tipe: MPV</string>
+    <string name="type6">Tipe: Offroad</string>
+    <string name="type7">Tipe: Offroad</string>
+    <string name="type8">Tipe: Sedan</string>
+    <string name="type9">Tipe: Sport</string>
+    <string name="type10">Tipe: Station Wagon</string>
+    <string name="type11">Tipe: SUV</string>
+
+    <string name="judulN1">Oli Mesin</string>
+    <string name="judulN2">Oli Transmisi</string>
+    <string name="judulN3">Oli Rem</string>
+    <string name="judulN4">Oli Gardan</string>
+    <string name="judulN5">Oli Power Stering</string>
+    <string name="judulN6">Oli Transfer</string>
+
+    <string name="isiN1">Jenis oli mobil yang pertama adalah oli mesin. Jika AutoFamily mendapatkan pengingat untuk mengganti oli, maka oli mesin inilah yang dimaksud. Fungsinya sangat penting bagi mobil. Pada saat mesin dihidupkan, oli mesin akan masuk ke sela-sela bagian mesin penggerak (piston, silinder, dan crankshaft) dan bertindak sebagai pelumas. Lampu indikator oli menyala di speedometer adalah indikator mengenai oli mesin saja, jadi bukan oli yang lainnya ya. Agar bisa bekerja optimal, oli mesin wajib diganti setiap mobil sudah melalui 5.000-10.000 km. AutoFamily juga bisa menggunakan patokan waktu untuk mengganti oli mesin, yaitu tiap enam bulan sekali.</string>
+    <string name="isiN2">BSesuai namanya, oli transmisi berperan sebagai pelumasan pada sistem transmisi mobil. Dengan menggunakan oli ini, maka proses transmisi (pergantian gigi) bisa dilakukan dengan mudah dan halus. Oli bekerja sebagai pelumas gear dan juga bearing pada sistem transmisi manual. Pada sistem transmisi otomatis, oli transmisi bekerja di bagian clutch serta torque.
+Oli transmisi yang digunakan pada mobil bertransmisi manual biasanya memiliki konsistensi lebih kental (di atas SAE 40). Sebaiknya, penggantian dilakukan berkala setiap mobil telah menempuh jarak 10.000 km. Sedangkan ganti oli mobil matic dengan ATF (Automatic Transmission Fluid) sebaiknya diganti tiap 20.000 km sekali.</string>
+    <string name="isiN3">Oli rem atau kerap disebut minyak rem, berfungsi membantu melancarkan sistem kerja pengereman. Oli rem bertugas sebagai penyalur dalam sistem hidrolik.
+Penggantian oli rem sebaiknya dilakukan setiap mobil sudah menempuh jarak sekitar 30.000 km. AutoFamily juga sebaiknya mengganti oli rem jika cairan telah berubah warna atau berubah konsistensinya. Hindari juga membuka-tutup tangki oli terlalu sering karena bisa membuat kotoran masuk.</string>
+    <string name="isiN4">Jenis oli mobil berikutnya adalah oli gardan. Fungsi utama dari fluida ini adalah sebagai pelumas kontak gigi gardan. Selain itu, oli gardan juga melindungi pinion gear agar tidak bersinggungan langsung dengan bearing. Penggantian oli gardan sebaiknya dilakukan setiap mobil sudah mencapai jarak 10.000 km (atau maksimal 20.000 km). Biasanya ciri ciri oli gardan mobil harus diganti sama dengan oli transmisi mobil.</string>
+    <string name="isiN5">Mobil-mobil yang beredar saat ini umumnya memiliki kemudi yang ringan saat diputar. Hal ini berbeda dari mobil keluaran lama yang kemudinya terasa lebih berat saat diputar. Semuanya berkat sistem power steering. Nah, sistem power steering dapat bekerja dengan adanya oli power steering. Oli power steering berperan sebagai pelumas pompa sekaligus meringankan perputaran kemudi. Cairan ini sebaiknya diganti setiap 40.000 km sekali.</string>
+    <string name="isiN6">Jenis oli mobil yang terakhir adalah oli transfer. Oli transfer umumnya hanya digunakan pada mobil dengan sistem penggerak all-wheel drive (AWD) atau four-wheel drive (4WD atau 4x4). Tugas oli mobil adalah sebagai pelindung chain dan bearing.</string>
+
+</resources>
